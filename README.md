@@ -14,3 +14,8 @@ Open the Folder named 'for_redistribution'.
 1) You may download the file 'Derivatives_Plots_App.mlapp' from this repo, and run directly in your PC.   
 or   
 2) You may download the file 'Derivatives_Plots_App_Installer.mlappinstall' from this repo, run it. When you open MATLAB, you will find this App under the 'APPS' tab in the Menu-Bar
+
+<img src = https://github.com/Vaishnavi1100/Derivatives_Plots_MATLAB/blob/main/App%20Interface%20and%20Examples/Call_Delta%20Example.png?raw=true>
+<img src = https://github.com/Vaishnavi1100/Derivatives_Plots_MATLAB/blob/main/App%20Interface%20and%20Examples/Put_Delta%20Example.png?raw=true>
+<img src = https://github.com/Vaishnavi1100/Derivatives_Plots_MATLAB/blob/main/App%20Interface%20and%20Examples/Call_Theta%20Example.png?raw=true>
+<img src = https://github.com/Vaishnavi1100/Derivatives_Plots_MATLAB/blob/main/App%20Interface%20and%20Examples/Put_Theta%20Example.png?raw=true>
