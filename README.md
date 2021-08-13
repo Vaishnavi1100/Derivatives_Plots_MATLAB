@@ -5,8 +5,8 @@
     https://drive.google.com/drive/folders/1SMsO1-BKOzHjUKfOa9EoqcS-e6R6_7A0?usp=sharing
   
 Open the Folder named 'for_redistribution'.   
-   ) Run the file 'MyAppInstaller_mcr.exe' to install the MATLAB Runtime for the App.   
-   ) Run the file 'MyAppInstaller_web.exe' to install the App.   
+   * Run the file 'MyAppInstaller_mcr.exe' to install the MATLAB Runtime for the App.   
+   * Run the file 'MyAppInstaller_web.exe' to install the App.   
 
 ## OR
 
